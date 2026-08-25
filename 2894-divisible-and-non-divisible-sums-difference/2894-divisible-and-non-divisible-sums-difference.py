@@ -7,6 +7,4 @@ class Solution(object):
                 num1 += i
             else:
                 num2 += i
-        print(num1)
-        print(num2)
         return num1 - num2
