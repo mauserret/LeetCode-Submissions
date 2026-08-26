@@ -14,6 +14,4 @@ class Solution(object):
                     return False
             else:
                 stack.append(b)
-        if stack:
-            return False
-        return True  
+        return len(stack) == 0
