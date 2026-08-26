@@ -25,7 +25,6 @@ class Solution(object):
             
             if nums[i] in table:
                 return [table[nums[i]], i]
-            remain = target - nums[i]
-            table[remain] = i
+            table[target - nums[i]] = i
 
         
