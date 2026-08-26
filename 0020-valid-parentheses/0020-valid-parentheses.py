@@ -10,8 +10,8 @@ class Solution(object):
             if b in '({[':
                 stack.append(b)
             else:
-                if stack and brackets[b] == stack[-1]:
-                    stack.pop()
-                else:
-                    return False         
+                if not stack or brackets[b] != stack[-1]:
+                    return False
+                stack.pop()
+                    
         return len(stack) == 0
