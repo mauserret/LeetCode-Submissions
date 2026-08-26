@@ -12,6 +12,12 @@ class Solution(object):
         """
         if x < 0 or (x % 10 == 0 and x != 0):
             return False
-        return x == int(str(x)[::-1])
+        d_x = x
+        rev_x = 0
+        while d_x:
+            rev_x = rev_x * 10 + d_x % 10
+            d_x //= 10
+        return x == rev_x
+
 
         
