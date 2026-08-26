@@ -10,7 +10,7 @@ class Solution(object):
             x //= 10
         return new_x == dummy_x
         """
-        if x < 0:
+        if x < 0 or (x % 10 == 0 and x != 0):
             return False
         return x == int(str(x)[::-1])
 
