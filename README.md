@@ -12,12 +12,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mauserret/LeetCode-Submissions/tree/master/0001-two-sum) |
 | [0204-count-primes](https://github.com/mauserret/LeetCode-Submissions/tree/master/0204-count-primes) |
 | [1920-build-array-from-permutation](https://github.com/mauserret/LeetCode-Submissions/tree/master/1920-build-array-from-permutation) |
 | [3668-restore-finishing-order](https://github.com/mauserret/LeetCode-Submissions/tree/master/3668-restore-finishing-order) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mauserret/LeetCode-Submissions/tree/master/0001-two-sum) |
 | [3668-restore-finishing-order](https://github.com/mauserret/LeetCode-Submissions/tree/master/3668-restore-finishing-order) |
 ## String
 |  |
