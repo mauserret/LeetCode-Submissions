@@ -7,11 +7,11 @@ class Solution(object):
             "]":"[",
         }
         for b in s:
-            if b in brackets.keys():
+            if b in '({[':
+                stack.append(b)
+            else:
                 if stack and brackets[b] == stack[-1]:
                     stack.pop()
                 else:
-                    return False
-            else:
-                stack.append(b)
+                    return False         
         return len(stack) == 0
