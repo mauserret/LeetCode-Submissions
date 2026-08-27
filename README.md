@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mauserret/LeetCode-Submissions/tree/master/0001-two-sum) |
 | [0204-count-primes](https://github.com/mauserret/LeetCode-Submissions/tree/master/0204-count-primes) |
 | [1920-build-array-from-permutation](https://github.com/mauserret/LeetCode-Submissions/tree/master/1920-build-array-from-permutation) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/mauserret/LeetCode-Submissions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mauserret/LeetCode-Submissions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3668-restore-finishing-order](https://github.com/mauserret/LeetCode-Submissions/tree/master/3668-restore-finishing-order) |
 ## Hash Table
@@ -27,11 +28,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mauserret/LeetCode-Submissions/tree/master/0020-valid-parentheses) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/mauserret/LeetCode-Submissions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/mauserret/LeetCode-Submissions/tree/master/3110-score-of-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/mauserret/LeetCode-Submissions/tree/master/1920-build-array-from-permutation) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/mauserret/LeetCode-Submissions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Stack
 |  |
 | ------- |
