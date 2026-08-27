@@ -14,17 +14,8 @@ class Solution(object):
                 if nums[i] + nums[j] == target:
                     return [i,j]
         """
-        """
-        loop i through nums
-            loop j through from i to the end of nums
-                if nums[i] + nums [j] is target 
-                then return [i,j]
-        """
-        table = {}
         for i in range(len(nums)):
-            
-            if nums[i] in table:
-                return [table[nums[i]], i]
-            table[target - nums[i]] = i
-
-        
+            for j in range(i+1, len(nums)):
+                if nums[i] + nums[j] == target:
+                    return [i, j]
+                
