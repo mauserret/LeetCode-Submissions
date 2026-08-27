@@ -1,5 +1,6 @@
 class Solution(object):
     def isValid(self, s):
+        """
         stack = []
         brackets = {
             ")":"(",
@@ -15,3 +16,7 @@ class Solution(object):
                 stack.pop()
                     
         return len(stack) == 0
+        """
+        while "()" in s or "[]" in s or "{}" in s:
+            s = s.replace("()", "").replace("[]", "").replace("{}", "")
+        return s == ""
