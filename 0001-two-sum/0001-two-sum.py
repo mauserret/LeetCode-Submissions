@@ -14,10 +14,9 @@ class Solution(object):
                 if nums[i] + nums[j] == target:
                     return [i,j]
         """
-        comp = {}
-        for i in range(len(nums)):
-            complement = target - nums[i]
-            if nums[i] in comp:
-                return [comp[nums[i]], i]
-            comp[complement] = i
+        dic = {} # 
+        for i in range(len(nums)): #nums = [2, 7, 11, 9] targer = 9
+            if nums[i] in dic:
+                return [dic[nums[i]], i]
+            dic[target - nums[i]] = i
                 
