@@ -23,11 +23,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mauserret/LeetCode-Submissions/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/mauserret/LeetCode-Submissions/tree/master/0242-valid-anagram) |
 | [3668-restore-finishing-order](https://github.com/mauserret/LeetCode-Submissions/tree/master/3668-restore-finishing-order) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mauserret/LeetCode-Submissions/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/mauserret/LeetCode-Submissions/tree/master/0242-valid-anagram) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mauserret/LeetCode-Submissions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/mauserret/LeetCode-Submissions/tree/master/3110-score-of-a-string) |
 ## Simulation
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/mauserret/LeetCode-Submissions/tree/master/0204-count-primes) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/mauserret/LeetCode-Submissions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
