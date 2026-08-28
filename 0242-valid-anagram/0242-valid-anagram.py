@@ -10,6 +10,5 @@ class Solution:
         for c in t:
             if not count.get(c, 0):
                 return False
-            else:
-                count[c] -= 1
+            count[c] -= 1
         return True
