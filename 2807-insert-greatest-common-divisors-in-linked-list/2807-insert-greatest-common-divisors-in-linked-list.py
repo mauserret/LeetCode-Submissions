@@ -15,11 +15,8 @@ class Solution:
 
         curr = head
         while curr.next:  
-            num1 = curr.val
-            num2 = curr.next.val
-            gcd = GCD(num1, num2)
             dummy = curr.next
-            curr.next = ListNode(gcd)
+            curr.next = ListNode(GCD(curr.val, curr.next.val))
             curr.next.next = dummy
             curr = curr.next.next
         return head
