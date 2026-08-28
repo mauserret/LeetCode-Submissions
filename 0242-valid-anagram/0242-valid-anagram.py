@@ -8,7 +8,7 @@ class Solution:
             count[c] = count.get(c, 0) + 1
         
         for c in t:
-            if c not in count or count[c] == 0:
+            if not count.get(c, 0):
                 return False
             else:
                 count[c] -= 1
