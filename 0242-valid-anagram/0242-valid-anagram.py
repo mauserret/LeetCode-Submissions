@@ -1,11 +1,15 @@
-class Solution(object):
-    def isAnagram(self, s, t):
+class Solution:
+    def isAnagram(self, s: str, t: str) -> bool:
         if len(s) != len(t):
             return False
         
-        s = sorted(s)
-        t = sorted(t)
-        for i in range(len(s)):
-            if s[i] != t[i]:
+        count = {}
+        for c in s:
+            count[c] = count.get(c, 0) + 1
+        
+        for c in t:
+            if c not in count or count[c] == 0:
                 return False
+            else:
+                count[c] -= 1
         return True
