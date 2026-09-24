@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mauserret/LeetCode-Submissions/tree/master/0242-valid-anagram) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mauserret/LeetCode-Submissions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/mauserret/LeetCode-Submissions/tree/master/3110-score-of-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/mauserret/LeetCode-Submissions/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/mauserret/LeetCode-Submissions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Simulation
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/mauserret/LeetCode-Submissions/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mauserret/LeetCode-Submissions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/mauserret/LeetCode-Submissions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3498-reverse-degree-of-a-string](https://github.com/mauserret/LeetCode-Submissions/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
