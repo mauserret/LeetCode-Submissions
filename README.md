@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mauserret/LeetCode-Submissions/tree/master/0001-two-sum) |
 | [0204-count-primes](https://github.com/mauserret/LeetCode-Submissions/tree/master/0204-count-primes) |
+| [0739-daily-temperatures](https://github.com/mauserret/LeetCode-Submissions/tree/master/0739-daily-temperatures) |
 | [1672-richest-customer-wealth](https://github.com/mauserret/LeetCode-Submissions/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/mauserret/LeetCode-Submissions/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mauserret/LeetCode-Submissions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/mauserret/LeetCode-Submissions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/mauserret/LeetCode-Submissions/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/mauserret/LeetCode-Submissions/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mauserret/LeetCode-Submissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
@@ -106,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/mauserret/LeetCode-Submissions/tree/master/1189-maximum-number-of-balloons) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/mauserret/LeetCode-Submissions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
