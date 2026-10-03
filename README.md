@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/mauserret/LeetCode-Submissions/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/mauserret/LeetCode-Submissions/tree/master/0242-valid-anagram) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mauserret/LeetCode-Submissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mauserret/LeetCode-Submissions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/mauserret/LeetCode-Submissions/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/mauserret/LeetCode-Submissions/tree/master/3498-reverse-degree-of-a-string) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/mauserret/LeetCode-Submissions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/mauserret/LeetCode-Submissions/tree/master/0234-palindrome-linked-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mauserret/LeetCode-Submissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
 | ------- |
