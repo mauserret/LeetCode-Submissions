@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/mauserret/LeetCode-Submissions/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/mauserret/LeetCode-Submissions/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mauserret/LeetCode-Submissions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2073-time-needed-to-buy-tickets](https://github.com/mauserret/LeetCode-Submissions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/mauserret/LeetCode-Submissions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mauserret/LeetCode-Submissions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3668-restore-finishing-order](https://github.com/mauserret/LeetCode-Submissions/tree/master/3668-restore-finishing-order) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/mauserret/LeetCode-Submissions/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mauserret/LeetCode-Submissions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2073-time-needed-to-buy-tickets](https://github.com/mauserret/LeetCode-Submissions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/mauserret/LeetCode-Submissions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3498-reverse-degree-of-a-string](https://github.com/mauserret/LeetCode-Submissions/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/mauserret/LeetCode-Submissions/tree/master/0319-bulb-switcher) |
+## Queue
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/mauserret/LeetCode-Submissions/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
