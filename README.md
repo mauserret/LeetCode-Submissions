@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/mauserret/LeetCode-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/mauserret/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/mauserret/LeetCode-Submissions/tree/master/0204-count-primes) |
+| [0303-range-sum-query-immutable](https://github.com/mauserret/LeetCode-Submissions/tree/master/0303-range-sum-query-immutable) |
 | [0739-daily-temperatures](https://github.com/mauserret/LeetCode-Submissions/tree/master/0739-daily-temperatures) |
 | [0881-boats-to-save-people](https://github.com/mauserret/LeetCode-Submissions/tree/master/0881-boats-to-save-people) |
 | [1672-richest-customer-wealth](https://github.com/mauserret/LeetCode-Submissions/tree/master/1672-richest-customer-wealth) |
@@ -152,4 +153,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mauserret/LeetCode-Submissions/tree/master/0169-majority-element) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/mauserret/LeetCode-Submissions/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/mauserret/LeetCode-Submissions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
