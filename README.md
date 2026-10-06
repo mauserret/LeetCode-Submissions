@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mauserret/LeetCode-Submissions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/mauserret/LeetCode-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/mauserret/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/mauserret/LeetCode-Submissions/tree/master/0204-count-primes) |
 | [0739-daily-temperatures](https://github.com/mauserret/LeetCode-Submissions/tree/master/0739-daily-temperatures) |
 | [0881-boats-to-save-people](https://github.com/mauserret/LeetCode-Submissions/tree/master/0881-boats-to-save-people) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mauserret/LeetCode-Submissions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/mauserret/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/mauserret/LeetCode-Submissions/tree/master/0242-valid-anagram) |
 | [1189-maximum-number-of-balloons](https://github.com/mauserret/LeetCode-Submissions/tree/master/1189-maximum-number-of-balloons) |
 | [3668-restore-finishing-order](https://github.com/mauserret/LeetCode-Submissions/tree/master/3668-restore-finishing-order) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/mauserret/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/mauserret/LeetCode-Submissions/tree/master/0242-valid-anagram) |
 | [0881-boats-to-save-people](https://github.com/mauserret/LeetCode-Submissions/tree/master/0881-boats-to-save-people) |
 ## Matrix
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/mauserret/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/mauserret/LeetCode-Submissions/tree/master/1189-maximum-number-of-balloons) |
 ## Monotonic Stack
 |  |
@@ -143,4 +147,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mauserret/LeetCode-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/mauserret/LeetCode-Submissions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mauserret/LeetCode-Submissions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
