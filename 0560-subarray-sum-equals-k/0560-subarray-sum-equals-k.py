@@ -7,9 +7,8 @@ class Solution:
         
         for num in nums:
             tot_sum += num
-            prefix_sum = tot_sum - k
+            difference = tot_sum - k
 
-            if prefix_sum in hashmap:
-                count += hashmap[prefix_sum]
+            count += hashmap[difference]
             hashmap[tot_sum] += 1
         return count
