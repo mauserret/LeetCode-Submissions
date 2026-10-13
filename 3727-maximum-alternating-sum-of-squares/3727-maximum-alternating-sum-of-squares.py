@@ -15,9 +15,8 @@ class Solution:
             l += 1
         return tot
         """
-        length = len(nums)
         numsSquared = [n * n for n in nums]
         numsSquared.sort()
-        print(numsSquared[length//2:])
-        print(numsSquared[:length//2])
-        return sum(numsSquared[length//2:]) - sum(numsSquared[:length//2])
+        # basically we want to sum the numbers that are biggest so from half to end and substract the smallest from start to half - 1
+        pos = len(nums) // 2
+        return sum(numsSquared[pos:]) - sum(numsSquared[:pos]) 
