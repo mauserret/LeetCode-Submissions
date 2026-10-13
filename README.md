@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mauserret/LeetCode-Submissions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mauserret/LeetCode-Submissions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3668-restore-finishing-order](https://github.com/mauserret/LeetCode-Submissions/tree/master/3668-restore-finishing-order) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/mauserret/LeetCode-Submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/mauserret/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/mauserret/LeetCode-Submissions/tree/master/0242-valid-anagram) |
 | [0881-boats-to-save-people](https://github.com/mauserret/LeetCode-Submissions/tree/master/0881-boats-to-save-people) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/mauserret/LeetCode-Submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Matrix
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0881-boats-to-save-people](https://github.com/mauserret/LeetCode-Submissions/tree/master/0881-boats-to-save-people) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mauserret/LeetCode-Submissions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/mauserret/LeetCode-Submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Timsort
 |  |
 | ------- |
