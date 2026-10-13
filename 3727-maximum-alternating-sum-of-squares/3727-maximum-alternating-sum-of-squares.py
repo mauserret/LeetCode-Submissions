@@ -1,9 +1,7 @@
 class Solution:
     def maxAlternatingSum(self, nums: List[int]) -> int:
         nums.sort(key = lambda x: abs(x))
-        print(nums)
-        print(-2 ** 2)
-        print(abs(-2) ** 2)
+
         l = 0
         r = len(nums) - 1
         tot = 0
