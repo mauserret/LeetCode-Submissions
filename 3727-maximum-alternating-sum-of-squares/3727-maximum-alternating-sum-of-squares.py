@@ -1,5 +1,6 @@
 class Solution:
     def maxAlternatingSum(self, nums: List[int]) -> int:
+        """
         nums.sort(key = lambda x: abs(x))
 
         l = 0
@@ -13,3 +14,10 @@ class Solution:
             r -= 1
             l += 1
         return tot
+        """
+        length = len(nums)
+        numsSquared = [n * n for n in nums]
+        numsSquared.sort()
+        print(numsSquared[length//2:])
+        print(numsSquared[:length//2])
+        return sum(numsSquared[length//2:]) - sum(numsSquared[:length//2])
