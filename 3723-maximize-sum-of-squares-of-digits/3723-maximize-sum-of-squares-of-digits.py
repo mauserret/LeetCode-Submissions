@@ -2,7 +2,6 @@ class Solution:
     def maxSumOfSquares(self, num: int, sum: int) -> str:
         if sum > 9 * num:
             return ""
-        curr_sum = 0
         res = []
         for _ in range(num):
             d = min(9, sum)
