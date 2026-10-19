@@ -12,8 +12,9 @@ class Solution:
         nums.sort()
         res = []
         for i in range(nums.index(target), len(nums)):
-            if nums[i] == target:
-                res.append(i)
+            if nums[i] != target:
+                break
+            res.append(i)
         return res
 
 
