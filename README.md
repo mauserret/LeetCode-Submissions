@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/mauserret/LeetCode-Submissions/tree/master/0204-count-primes) |
 | [0319-bulb-switcher](https://github.com/mauserret/LeetCode-Submissions/tree/master/0319-bulb-switcher) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mauserret/LeetCode-Submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2409-count-days-spent-together](https://github.com/mauserret/LeetCode-Submissions/tree/master/2409-count-days-spent-together) |
 | [2769-find-the-maximum-achievable-number](https://github.com/mauserret/LeetCode-Submissions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/mauserret/LeetCode-Submissions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/mauserret/LeetCode-Submissions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mauserret/LeetCode-Submissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/mauserret/LeetCode-Submissions/tree/master/1189-maximum-number-of-balloons) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mauserret/LeetCode-Submissions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2409-count-days-spent-together](https://github.com/mauserret/LeetCode-Submissions/tree/master/2409-count-days-spent-together) |
 | [3110-score-of-a-string](https://github.com/mauserret/LeetCode-Submissions/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/mauserret/LeetCode-Submissions/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/mauserret/LeetCode-Submissions/tree/master/3760-maximum-substrings-with-distinct-start) |
