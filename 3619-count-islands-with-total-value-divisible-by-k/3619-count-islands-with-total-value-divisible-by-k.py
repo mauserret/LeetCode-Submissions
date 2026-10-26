@@ -2,12 +2,12 @@ class Solution:
     def countIslands(self, grid: List[List[int]], k: int) -> int:
         ROWS, COLS = len(grid), len(grid[0])
         total = [0]
-
         def dfs(r, c):
             if r < 0 or r >= ROWS or c < 0 or c >= COLS:
                 return
             if grid[r][c] == 0:
                 return
+
             total[0] += grid[r][c]
             grid[r][c] = 0
             
@@ -19,7 +19,7 @@ class Solution:
         res = 0
         for row in range(ROWS):
             for col in range(COLS):
-                if grid[row][col] != 0:
+                if grid[row][col]:
                     dfs(row, col)
                     if total[0] % k == 0:
                         res += 1
@@ -27,7 +27,7 @@ class Solution:
         return res
 
         """
-                ROWS, COLS = len(grid), len(grid[0])
+        ROWS, COLS = len(grid), len(grid[0])
         visit = set()
 
         def dfs(row, col):
