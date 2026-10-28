@@ -1,19 +1,28 @@
 class Solution:
     def minCost(self, grid: list[list[int]]) -> int:
-        m, n = len(grid), len(grid[0])
-        
-        dp = [[set() for _ in range(n)] for _ in range(m)]
-        dp[0][0].add(grid[0][0])
+        r, c = len(grid),  len(grid[0])
 
-        for row in range(m):
-            for col in range(n):
-                if row > 0:
-                    for prev in dp[row - 1][col]:
-                        dp[row][col].add(prev ^ grid[row][col] )
-                if col > 0:
-                    for prev in dp[row][col - 1]:
-                        dp[row][col].add(prev ^ grid[row][col])
+        # dp[j] = set of XOR values reachable at current row, column j
+        dp = [set() for _ in range(c)]
+        dp[0].add(grid[0][0])
 
-        return min(dp[m-1][n-1])
+        for i in range(r):
+            for j in range(c):
+                # Starting cell
+                if i == 0 and j == 0:
+                    continue
 
-        
+                current = set()
+                # From TOP
+                if i > 0:
+                    for xor_val in dp[j]:
+                        current.add(xor_val ^ grid[i][j])
+
+                # From LEFT
+                if j > 0:
+                    for xor_val in dp[j - 1]:
+                        current.add(xor_val ^ grid[i][j])
+
+                dp[j] = current
+
+        return min(dp[c - 1])
