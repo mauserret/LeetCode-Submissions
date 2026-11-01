@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/mauserret/LeetCode-Submissions/tree/master/0009-palindrome-number) |
 | [0204-count-primes](https://github.com/mauserret/LeetCode-Submissions/tree/master/0204-count-primes) |
 | [0319-bulb-switcher](https://github.com/mauserret/LeetCode-Submissions/tree/master/0319-bulb-switcher) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/mauserret/LeetCode-Submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mauserret/LeetCode-Submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/mauserret/LeetCode-Submissions/tree/master/2409-count-days-spent-together) |
 | [2769-find-the-maximum-achievable-number](https://github.com/mauserret/LeetCode-Submissions/tree/master/2769-find-the-maximum-achievable-number) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/mauserret/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/mauserret/LeetCode-Submissions/tree/master/0204-count-primes) |
 | [0303-range-sum-query-immutable](https://github.com/mauserret/LeetCode-Submissions/tree/master/0303-range-sum-query-immutable) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/mauserret/LeetCode-Submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/mauserret/LeetCode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/mauserret/LeetCode-Submissions/tree/master/0739-daily-temperatures) |
 | [0881-boats-to-save-people](https://github.com/mauserret/LeetCode-Submissions/tree/master/0881-boats-to-save-people) |
