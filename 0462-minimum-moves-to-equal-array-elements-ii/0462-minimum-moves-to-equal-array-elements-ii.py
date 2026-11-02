@@ -3,11 +3,7 @@ class Solution:
         nums.sort()
         n = len(nums)
         tot = 0
-        
-        if n % 2 == 0:
-            mid = nums[n//2 - 1]
-        else:
-            mid = nums[n//2]
+        mid = nums[n//2]
         
         for num in nums:
             tot += abs(num - mid)
