@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/mauserret/LeetCode-Submissions/tree/master/0319-bulb-switcher) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mauserret/LeetCode-Submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mauserret/LeetCode-Submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mauserret/LeetCode-Submissions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mauserret/LeetCode-Submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/mauserret/LeetCode-Submissions/tree/master/2409-count-days-spent-together) |
 | [2769-find-the-maximum-achievable-number](https://github.com/mauserret/LeetCode-Submissions/tree/master/2769-find-the-maximum-achievable-number) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mauserret/LeetCode-Submissions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mauserret/LeetCode-Submissions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/mauserret/LeetCode-Submissions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/mauserret/LeetCode-Submissions/tree/master/3841-palindromic-path-queries-in-a-tree) |
