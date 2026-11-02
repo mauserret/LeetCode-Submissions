@@ -3,14 +3,12 @@ class Solution:
   def fizzBuzz(self, n: int) -> list[str]:
     answer = []
     for i in range(1, n + 1):
-      parts = []
-      if i % 3 == 0:
-        parts.append("Fizz")
-      if i % 5 == 0:
-        parts.append("Buzz")
-
-      if parts:
-        answer.append("".join(parts))
+      if i % 15 == 0:
+        answer.append("FizzBuzz")
+      elif i % 3 == 0:
+        answer.append("Fizz")
+      elif i % 5 == 0:
+        answer.append("Buzz")
       else:
         answer.append(str(i))
     return answer
