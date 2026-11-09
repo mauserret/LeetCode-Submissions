@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/mauserret/LeetCode-Submissions/tree/master/0881-boats-to-save-people) |
 | [1254-number-of-closed-islands](https://github.com/mauserret/LeetCode-Submissions/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mauserret/LeetCode-Submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/mauserret/LeetCode-Submissions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1672-richest-customer-wealth](https://github.com/mauserret/LeetCode-Submissions/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/mauserret/LeetCode-Submissions/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mauserret/LeetCode-Submissions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/mauserret/LeetCode-Submissions/tree/master/0412-fizz-buzz) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/mauserret/LeetCode-Submissions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1920-build-array-from-permutation](https://github.com/mauserret/LeetCode-Submissions/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mauserret/LeetCode-Submissions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2073-time-needed-to-buy-tickets](https://github.com/mauserret/LeetCode-Submissions/tree/master/2073-time-needed-to-buy-tickets) |
@@ -294,9 +296,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/mauserret/LeetCode-Submissions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/mauserret/LeetCode-Submissions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/mauserret/LeetCode-Submissions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Ordered Set
+|  |
+| ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/mauserret/LeetCode-Submissions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 <!---LeetCode Topics End-->
