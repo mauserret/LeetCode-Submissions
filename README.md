@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/mauserret/LeetCode-Submissions/tree/master/0303-range-sum-query-immutable) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mauserret/LeetCode-Submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mauserret/LeetCode-Submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0463-island-perimeter](https://github.com/mauserret/LeetCode-Submissions/tree/master/0463-island-perimeter) |
 | [0560-subarray-sum-equals-k](https://github.com/mauserret/LeetCode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/mauserret/LeetCode-Submissions/tree/master/0739-daily-temperatures) |
 | [0881-boats-to-save-people](https://github.com/mauserret/LeetCode-Submissions/tree/master/0881-boats-to-save-people) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0463-island-perimeter](https://github.com/mauserret/LeetCode-Submissions/tree/master/0463-island-perimeter) |
 | [1254-number-of-closed-islands](https://github.com/mauserret/LeetCode-Submissions/tree/master/1254-number-of-closed-islands) |
 | [1672-richest-customer-wealth](https://github.com/mauserret/LeetCode-Submissions/tree/master/1672-richest-customer-wealth) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mauserret/LeetCode-Submissions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -281,12 +283,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0463-island-perimeter](https://github.com/mauserret/LeetCode-Submissions/tree/master/0463-island-perimeter) |
 | [1254-number-of-closed-islands](https://github.com/mauserret/LeetCode-Submissions/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mauserret/LeetCode-Submissions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/mauserret/LeetCode-Submissions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0463-island-perimeter](https://github.com/mauserret/LeetCode-Submissions/tree/master/0463-island-perimeter) |
 | [1254-number-of-closed-islands](https://github.com/mauserret/LeetCode-Submissions/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mauserret/LeetCode-Submissions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
