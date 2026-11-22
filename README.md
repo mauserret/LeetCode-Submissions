@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mauserret/LeetCode-Submissions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/mauserret/LeetCode-Submissions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mauserret/LeetCode-Submissions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/mauserret/LeetCode-Submissions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/mauserret/LeetCode-Submissions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mauserret/LeetCode-Submissions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/mauserret/LeetCode-Submissions/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mauserret/LeetCode-Submissions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mauserret/LeetCode-Submissions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/mauserret/LeetCode-Submissions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/mauserret/LeetCode-Submissions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/mauserret/LeetCode-Submissions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3668-restore-finishing-order](https://github.com/mauserret/LeetCode-Submissions/tree/master/3668-restore-finishing-order) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/mauserret/LeetCode-Submissions/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/mauserret/LeetCode-Submissions/tree/master/2409-count-days-spent-together) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/mauserret/LeetCode-Submissions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3110-score-of-a-string](https://github.com/mauserret/LeetCode-Submissions/tree/master/3110-score-of-a-string) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/mauserret/LeetCode-Submissions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3498-reverse-degree-of-a-string](https://github.com/mauserret/LeetCode-Submissions/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/mauserret/LeetCode-Submissions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/mauserret/LeetCode-Submissions/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mauserret/LeetCode-Submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/mauserret/LeetCode-Submissions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/mauserret/LeetCode-Submissions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Union-Find
 |  |
@@ -292,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0463-island-perimeter](https://github.com/mauserret/LeetCode-Submissions/tree/master/0463-island-perimeter) |
 | [1254-number-of-closed-islands](https://github.com/mauserret/LeetCode-Submissions/tree/master/1254-number-of-closed-islands) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/mauserret/LeetCode-Submissions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mauserret/LeetCode-Submissions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/mauserret/LeetCode-Submissions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
